@@ -1,0 +1,13 @@
+{
+  "best_model": "xgb",
+  "clusters": {
+    "n_clusters": 4,
+    "counts": {
+      "0": 418,
+      "1": 324,
+      "2": 316,
+      "3": 280
+    }
+  },
+  "margin": 0.2
+}

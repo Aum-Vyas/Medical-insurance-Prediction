@@ -1,0 +1,42 @@
+{
+  "sex": [
+    {
+      "sex": "female",
+      "count": 662,
+      "mean_resid": -16.12992995914367,
+      "mae": 1732.3466636173764
+    },
+    {
+      "sex": "male",
+      "count": 676,
+      "mean_resid": -33.84682898366714,
+      "mae": 1684.359394023914
+    }
+  ],
+  "region": [
+    {
+      "region": "northeast",
+      "count": 324,
+      "mean_resid": -32.13806162993708,
+      "mae": 1931.5782875731397
+    },
+    {
+      "region": "northwest",
+      "count": 325,
+      "mean_resid": 1.1608267561899572,
+      "mae": 1777.6037461408052
+    },
+    {
+      "region": "southeast",
+      "count": 364,
+      "mean_resid": -99.15117909469433,
+      "mae": 1711.784562918956
+    },
+    {
+      "region": "southwest",
+      "count": 325,
+      "mean_resid": 38.67083826736772,
+      "mae": 1411.6870095474158
+    }
+  ]
+}
